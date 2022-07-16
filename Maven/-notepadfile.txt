@@ -1,0 +1,5 @@
+[user]
+       user.name = SwarneethaPathi
+      User.email = swarneetha.pathi@wipro.com
+[config]
+        git config --global core.editor "notepad -notepadfile -nossesion"
